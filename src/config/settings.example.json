@@ -1,0 +1,5 @@
+{
+  "input_file": "data/input.sample.json",
+  "output_file": "data/sample_output.json",
+  "output_format": "json"
+}
